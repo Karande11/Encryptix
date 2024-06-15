@@ -1,0 +1,1 @@
+This repository contains a collection of projects developed during my internship at Encryptix. Each project showcases various skills and technologies I have learned and applied. The primary project is a To-Do List application developed using Python.
